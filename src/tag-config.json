@@ -1,53 +1,37 @@
 {
   "subject": [
     {
-      "name": "nature",
-      "title": "Nature",
-      "description": "Images of natural landscapes, flora, or fauna"
+      "name": "dps",
+      "title": "Damage Heroes",
+      "description": "Images of Overwatch damage (DPS) heroes"
     },
     {
-      "name": "tech",
-      "title": "Technology",
-      "description": "Images related to technological devices or concepts"
+      "name": "tank",
+      "title": "Tank",
+      "description": "Images of Overwatch tank heroes"
     },
     {
-      "name": "people",
-      "title": "People",
-      "description": "Images featuring individuals or groups of people"
+      "name": "sup",
+      "title": "Support",
+      "description": "Images of Overwatch support heroes"
     }
   ],
   "version": [
     {
-      "name": "1_0_0",
-      "title": "Image set Version 1",
-      "description": "Images from Version 1"
+      "name": "h_all",
+      "title": "All Heroes of Overwatch",
+      "description": "Images of all heroes from Overwatch 1 and 2"
     },
     {
-      "name": "1_1_0",
-      "title": "Image set Version 1.1",
-      "description": "Images from Version 1.1"
+      "name": "h_1",
+      "title": "Heroes from Overwatch 1",
+      "description": "Images of heroes from Overwatch 1"
     },
     {
-      "name": "2_0_0",
-      "title": "Image set Version 2.0",
-      "description": "Images from Version 2"
+      "name": "h_2",
+      "title": "Heroes from Overwatch 2",
+      "description": "Images of heroes from Overwatch 2"
     }
   ],
-  "general": [
-    {
-      "name": "hq",
-      "title": "High Quality",
-      "description": "Images with exceptional clarity and detail"
-    },
-    {
-      "name": "colorful",
-      "title": "Colorful",
-      "description": "Images with a vibrant color palette"
-    },
-    {
-      "name": "monochrome",
-      "title": "Black and White",
-      "description": "Monochrome images"
-    }
-  ]
+  "general": []
 }

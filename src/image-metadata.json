@@ -1,60 +1,863 @@
 [
   {
-    "filename": "hero2.webp",
+    "filename": "ana.webp",
     "tags": [
       {
-        "name": "people",
-        "title": "People",
-        "description": "Images featuring individuals or groups of people"
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
       },
       {
-        "name": "1_0_0",
-        "title": "Image set Version 1",
-        "description": "Images from Version 1"
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
       }
     ],
-    "label": "Handsome Hero"
+    "label": "Ana"
   },
   {
-    "filename": "mecha/mecha1.webp",
+    "filename": "ash.webp",
     "tags": [
       {
-        "name": "tech",
-        "title": "Technology",
-        "description": "Images related to technological devices or concepts"
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
       },
       {
-        "name": "1_1_0",
-        "title": "Image set Version 1.1",
-        "description": "Images from Version 1.1"
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
       }
     ],
-    "label": "Flying Mecha"
+    "label": "Ashe"
   },
   {
-    "filename": "hero1.webp",
+    "filename": "bal.webp",
     "tags": [
       {
-        "name": "people",
-        "title": "People",
-        "description": "Images featuring individuals or groups of people"
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
       },
       {
-        "name": "hq",
-        "title": "High Quality",
-        "description": "Images with exceptional clarity and detail"
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
       }
     ],
-    "label": "Super Handsome Blonde Hero"
+    "label": "Wrecking Ball"
   },
   {
-    "filename": "hero3.webp",
-    "tags": [],
-    "label": ""
+    "filename": "bap.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Baptiste"
   },
   {
-    "filename": "mecha/mecha2.webp",
-    "tags": [],
-    "label": ""
+    "filename": "bas.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Bastion"
+  },
+  {
+    "filename": "brg.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Brigitte"
+  },
+  {
+    "filename": "dfs.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Doomfist"
+  },
+  {
+    "filename": "dva.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "D.Va"
+  },
+  {
+    "filename": "ech.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Echo"
+  },
+  {
+    "filename": "gen.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Genji"
+  },
+  {
+    "filename": "han.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Hanzo"
+  },
+  {
+    "filename": "hog.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Roadhog"
+  },
+  {
+    "filename": "ill.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Illari"
+  },
+  {
+    "filename": "jqn.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Junker Queen"
+  },
+  {
+    "filename": "jun.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Juno"
+  },
+  {
+    "filename": "kir.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Kiriko"
+  },
+  {
+    "filename": "luc.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Lucio"
+  },
+  {
+    "filename": "mau.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Mauga"
+  },
+  {
+    "filename": "mcr.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Cassidy"
+  },
+  {
+    "filename": "mei.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Mei"
+  },
+  {
+    "filename": "mer.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Mercy"
+  },
+  {
+    "filename": "moi.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Moira"
+  },
+  {
+    "filename": "ori.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Orisa"
+  },
+  {
+    "filename": "pha.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Pharah"
+  },
+  {
+    "filename": "ram.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Ramattra"
+  },
+  {
+    "filename": "rat.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Junkrat"
+  },
+  {
+    "filename": "rea.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Reaper"
+  },
+  {
+    "filename": "rei.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Reinhardt"
+  },
+  {
+    "filename": "s76.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Soldier: 76"
+  },
+  {
+    "filename": "sig.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Sigma"
+  },
+  {
+    "filename": "soj.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Sojourn"
+  },
+  {
+    "filename": "som.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Sombra"
+  },
+  {
+    "filename": "sym.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Symmetra"
+  },
+  {
+    "filename": "tob.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Torbjörn"
+  },
+  {
+    "filename": "tra.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Tracer"
+  },
+  {
+    "filename": "ven.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Venture"
+  },
+  {
+    "filename": "wdw.webp",
+    "tags": [
+      {
+        "name": "dps",
+        "title": "Damage Heroes",
+        "description": "Images of Overwatch damage (DPS) heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Widowmaker"
+  },
+  {
+    "filename": "wea.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_2",
+        "title": "Heroes from Overwatch 2",
+        "description": "Images of heroes from Overwatch 2"
+      }
+    ],
+    "label": "Lifeweaver"
+  },
+  {
+    "filename": "win.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Winston"
+  },
+  {
+    "filename": "zar.webp",
+    "tags": [
+      {
+        "name": "tank",
+        "title": "Tank",
+        "description": "Images of Overwatch tank heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Zarya"
+  },
+  {
+    "filename": "zen.webp",
+    "tags": [
+      {
+        "name": "sup",
+        "title": "Support",
+        "description": "Images of Overwatch support heroes"
+      },
+      {
+        "name": "h_all",
+        "title": "All Heroes of Overwatch",
+        "description": "Images of all heroes from Overwatch 1 and 2"
+      },
+      {
+        "name": "h_1",
+        "title": "Heroes from Overwatch 1",
+        "description": "Images of heroes from Overwatch 1"
+      }
+    ],
+    "label": "Zenyatta"
   }
 ]
