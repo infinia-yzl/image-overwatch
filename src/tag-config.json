@@ -2,7 +2,7 @@
   "subject": [
     {
       "name": "dps",
-      "title": "Damage Heroes",
+      "title": "Damage",
       "description": "Images of Overwatch damage (DPS) heroes"
     },
     {
@@ -19,7 +19,7 @@
   "version": [
     {
       "name": "h_all",
-      "title": "All Heroes of Overwatch",
+      "title": "All Heroes",
       "description": "Images of all heroes from Overwatch 1 and 2"
     },
     {
