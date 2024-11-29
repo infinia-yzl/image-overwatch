@@ -1,6 +1,6 @@
 {
   "name": "image-overwatch",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "This package contains a curated collection of images from Overwatch by Blizzard Entertainment. The images are sourced from the official Overwatch sources and used under Blizzard's Fan Content Policy. If any images are used inappropriately, please contact me for their immediate removal. Contributions to this repository are welcome!",
   "main": "src/index.js",
   "files": [

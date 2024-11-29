@@ -367,5 +367,14 @@
       "h_1"
     ],
     "label": "Zenyatta"
+  },
+  {
+    "filename": "hzd.webp",
+    "tags": [
+      "tank",
+      "h_all",
+      "h_2"
+    ],
+    "label": "Hazard"
   }
 ]
